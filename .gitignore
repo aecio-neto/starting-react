@@ -9,6 +9,10 @@
 /coverage
 /original
 
+#notes 
+notas.md
+thinkingInReact.md
+
 # production
 /build
 
